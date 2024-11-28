@@ -2,6 +2,7 @@
 
 ## Ucesnici:
 - Nikola Ratinac
+- Jana Atanasijevic
 - Tamara Marinkovic
 - Lena Stankovic
 - Marko Milivojevic
