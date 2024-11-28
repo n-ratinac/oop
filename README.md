@@ -2,3 +2,4 @@
 
 ## Ucesnici:
 - Nikola Ratinac
+- Lena Stankovic
