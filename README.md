@@ -2,4 +2,6 @@
 
 ## Ucesnici:
 - Nikola Ratinac
--Tamara Marinkovic
+- Tamara Marinkovic
+- Lena Stankovic
+
